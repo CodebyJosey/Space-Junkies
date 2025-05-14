@@ -1,0 +1,32 @@
+{
+    "Ardy": {
+        "highscore": 76,
+        "score": 23,
+        "enemies": 12,
+        "difficulty": 2
+    },
+    "Jur": {
+        "highscore": 3,
+        "score": 3,
+        "enemies": 8,
+        "difficulty": 1
+    },
+    "Daniel": {
+        "highscore": 4,
+        "score": 4,
+        "enemies": 7,
+        "difficulty": 1
+    },
+    "Daniel koster": {
+        "highscore": 13,
+        "score": 13,
+        "enemies": 10,
+        "difficulty": 1
+    },
+    "Josey": {
+        "highscore": 67,
+        "score": 67,
+        "enemies": 21,
+        "difficulty": 3
+    }
+}
